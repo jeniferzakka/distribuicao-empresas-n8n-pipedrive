@@ -82,6 +82,8 @@
 <hr>
 
 <h2>🗂 Workflow</h2>
+
+![n8n-workflow](https://raw.githubusercontent.com/jeniferzakka/distribuicao-empresas-n8n-pipedrive/main/n8n-workflow.jpg)
+
 <p>
-  <em>Adicione aqui a imagem do fluxo (print do n8n).</em>
 </p>
